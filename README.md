@@ -2,7 +2,7 @@
 
 This is a Python script that connects to the Zendesk API and displays tickets from my account to users. This script was written for the Zendesk Coding Challenge.
 
-#Instructions
+# Instructions
 
 To use this script, download zendesk.py and ensure you have Python3 installed on your machine. In the command line, navigate to the directory that holds 'zendesk.py' and enter 'Python3 zendesk.py' to run the script. At this point, you will be greeted with instructions.
 
